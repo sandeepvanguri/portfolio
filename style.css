@@ -228,3 +228,20 @@ footer {
 footer p {
     font-size: small;
 }
+
+
+.slide-down-btn a{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color:black;
+    color:white;
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.5s;
+    color: white;
+}
+
+.slide-down-btn:hover {
+    border-radius: 50px;
+    color: white;
+}
